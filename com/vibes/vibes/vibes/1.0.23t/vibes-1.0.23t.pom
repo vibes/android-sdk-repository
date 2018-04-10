@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vibes.vibes</groupId>
   <artifactId>vibes</artifactId>
-  <version>1.0.23</version>
+  <version>1.0.23t</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
